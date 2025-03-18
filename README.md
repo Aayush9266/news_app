@@ -1,16 +1,47 @@
-# News_App
+# News App
 
-A new Flutter project.
+## Overview
+This is a Flutter-based News App that fetches the latest news articles and displays them in a user-friendly interface. The app allows users to browse news by categories and search for news articles based on their titles.
 
-## Getting Started
+## Features
+- Fetch and display latest news articles from an API.
+- Category-based news filtering (All, Politics, Sports, Education, Game).
+- Search functionality to find news by title.
+- Clean and intuitive UI.
 
-This project is a starting point for a Flutter application.
+## Screenshots
+(Add screenshots here)
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
+- Flutter
+- Dart
+- HTTP package for API requests
+- News API (https://mediastack.com/sources/india-news-api)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
+### Prerequisites
+- Flutter SDK installed
+- Android Studio or Visual Studio Code
+- A device or emulator to run the app
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Steps
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/news-app.git
+   ```
+2. Navigate to the project folder:
+   ```sh
+   cd news-app
+   ```
+3. Install dependencies:
+   ```sh
+   flutter pub get
+   ```
+4. Run the app:
+   ```sh
+   flutter run
+   ```
+
+## Contact
+For any queries, contact ayushasati04@gmail.com.
+
