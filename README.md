@@ -10,7 +10,8 @@ This is a Flutter-based News App that fetches the latest news articles and displ
 - Clean and intuitive UI.
 
 ## Screenshots
-(Add screenshots here)
+(https://github.com/Aayush9266/news_app/blob/master/assets/WhatsApp%20Image%202025-03-18%20at%2018.32.37_5b9ec7bc.jpg)
+(https://github.com/Aayush9266/news_app/blob/master/assets/WhatsApp%20Image%202025-03-18%20at%2018.32.37_9619be9b.jpg)
 
 ## Technologies Used
 - Flutter
