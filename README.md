@@ -35,7 +35,7 @@ This is a Flutter-based News App that fetches the latest news articles and displ
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/news-app.git
+   git clone https://github.com/Aayush9266/news_app.git
    ```
 2. Navigate to the project folder:
    ```sh
